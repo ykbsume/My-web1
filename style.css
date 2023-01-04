@@ -1,0 +1,88 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+section{
+    height: 500px;
+    margin-top:30px;
+}
+.h1-color{
+    color: rgb(9, 163, 246);
+}
+
+.h1-color2{
+    color: rgb(5, 246, 25);
+}
+
+.half-top{
+    
+    width: 40%;
+    float:left;
+    margin-left: 5%;  
+    padding-left: 2%;
+    
+    
+}
+.h2-decoration{
+    font-style: italic;
+}
+
+.h2-decoration2{
+    text-decoration: underline;
+}
+.half-top img{
+width: 80%;
+}
+
+.top-banner {
+    
+    background-image:url( "pictures/side image 3.jpg") ;
+    background-repeat:no-repeat;
+    background-size: 70px;
+    
+}
+.button-design{
+    color:brown;
+    text-decoration: none;
+    background-color: rgb(220, 226, 43);
+    padding: 10px 20px;
+}
+.top-banner2 {
+    
+    background-image:url( "pictures/right image2.png") ;
+    background-repeat:no-repeat;
+    background-size: 120px;
+    background-position:right;}
+
+.experience-area{
+
+    box-shadow:10px 10px 30px grey ;
+    height: 50%;
+    border-radius: 10px;
+    background-color:white ;
+    padding: 10px;
+}
+.experience-logo{
+    background-image:url( "pictures/right image2.png") ;
+    background-repeat:no-repeat;
+    background-size: 120px;
+    background-position:left;}
+
+#sideline1{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,red,rgb(255, 71, 166));
+    border-image-slice: 1;
+    
+}
+#sideline2{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,green,rgb(255, 71, 166));
+    border-image-slice: 1;
+    
+}
+#footer{
+    color: rgb(9, 163, 246);
+    font-size: 18px;
+    text-align: center;
+    margin-bottom:30px;
+}
